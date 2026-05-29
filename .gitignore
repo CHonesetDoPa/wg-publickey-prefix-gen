@@ -1,0 +1,35 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# Go
+go/wg_vanity
+wg_vanity
+*.exe
+*.out
+*.test
+go/bin/
+go/pkg/
+go/pkg/mod/
+.cache/
+.cache/go-build
+
+# Editor dirs
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Logs, env
+*.log
+.env
+.env.local
